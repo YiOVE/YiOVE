@@ -10,16 +10,16 @@
 
 ## 『1OVE Club』
 
+* ❌有门槛
 * 资源分享频道：[https://t.me/joinchat/T1yN2ZwtmAdiZGNl](https://t.me/joinchat/T1yN2ZwtmAdiZGNl)
 * 交流群： [@OneDrive_1oveClub](https://t.me/OneDrive_1oveClub)
 * 专属机器人： [@Search_1oveClub_bot](https://t.me/Search_1oveClub_bot)
 
 ## 『1OVE Community』
 
+* ✔**无门槛**
 * 资源分享频道： [https://t.me/Our_1oveCommunity](https://t.me/Our_1oveCommunity)
-
 * 交流群： [@HaoYangMaoDaXue](https://t.me/HaoYangMaoDaXue)
-
 * 专属机器人： [@Our_1oveCommunity_bot](https://t.me/Our_1oveCommunity_bot)
 
 ## 主频道
