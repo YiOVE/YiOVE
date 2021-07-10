@@ -21,6 +21,7 @@
 * 资源分享频道： [https://t.me/Our_1oveCommunity](https://t.me/Our_1oveCommunity)
 * 交流群： [@HaoYangMaoDaXue](https://t.me/HaoYangMaoDaXue)
 * 专属机器人： [@Our_1oveCommunity_bot](https://t.me/Our_1oveCommunity_bot)
+* 博客：[blog.1ove.ml](https://blog.1ove.ml)
 
 ## 主频道
 
