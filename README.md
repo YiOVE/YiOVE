@@ -4,26 +4,20 @@
 
 &emsp;&emsp;目前，主要致力于OneDrive的资源分享，分享的种类不限。
 
-&emsp;&emsp;1ove分为无门槛版和有门槛版，即1ove Community和1ove Club。
+## 官网
 
-&emsp;&emsp;论坛地址：[https://bbs.1ove.club](https://bbs.1ove.club)
+&emsp;&emsp;地址：[https://1ove.club](https://1ove.club)
 
-## 『1OVE Club』
+&emsp;&emsp;1OVE：THE FIRST LOVE=初恋。愿我不忘初衷，盼你始终不离。
 
-* ❌有门槛
-* 资源分享频道：[https://t.me/joinchat/T1yN2ZwtmAdiZGNl](https://t.me/joinchat/T1yN2ZwtmAdiZGNl)
-* 交流群： [@OneDrive_1oveClub](https://t.me/OneDrive_1oveClub)
-* 专属机器人： [@Search_1oveClub_bot](https://t.me/Search_1oveClub_bot)
+## 论坛
 
-## 『1OVE Community』
+&emsp;&emsp;地址：[https://bbs.1ove.club/](https://bbs.1ove.club/)
 
-* ✔**无门槛**
-* 资源分享频道： [https://t.me/Our_1oveCommunity](https://t.me/Our_1oveCommunity)
-* 交流群： [@HaoYangMaoDaXue](https://t.me/HaoYangMaoDaXue)
-* 专属机器人： [@Our_1oveCommunity_bot](https://t.me/Our_1oveCommunity_bot)
-* 博客：[blog.1ove.ml](https://blog.1ove.ml)
+&emsp;&emsp;OneDrive/SharePoint/微软云盘资源交流与分享
 
-## 主频道
+<img src="https://cdn.jsdelivr.net/gh/qiantigers/onetu/20210810213140.png" width=720 />
 
-* Telegram：[@Home_1ove](https://t.me/Home_1ove)
+## Telegram主频道
 
+&emsp;&emsp;地址：[https://t.me/Home_1OVE](https://t.me/Home_1OVE)
