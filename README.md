@@ -6,8 +6,6 @@
 
 ## 相关站点
 
-&emsp;&emsp;地址：[https://1ove.club](https://www.1ove.club/archives/start.html)
-
 &emsp;&emsp;导航：[https://www.1ove.club](https://www.1ove.club)
 
 &emsp;&emsp;论坛：[https://bbs.1ove.club/](https://www.1ove.club/archives/8.html)
@@ -24,3 +22,4 @@ Telegram总频道：[@Home_1OVE](https://www.1ove.club/archives/32.html)
 * [1OVE综合资源](https://www.1ove.club/archives/Complex_1ove.html)
 * [1OVE Telegram主题](https://www.1ove.club/archives/36.html)
 * [1OVE RSS](https://www.1ove.club/archives/37.html)
+
