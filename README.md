@@ -1,13 +1,13 @@
-# 1OVE CLUB
+# 1OVE CLUB - YiOVE
 
-## 简介
+## 介绍
 
-&emsp;&emsp;这是一个不被定义的小组织，包含了兴趣聊天、资源分享、技术交流等等吧，感兴趣可以加入这个大家庭。
+1OVE寓意THE FIRST LOVE，即初心。CLUB寓意兴趣提供原动力。愿我不忘初衷，盼你始终不离。
 
-## 相关站点
+YiOVE释义数字“1”的拼音为“yi”，故1ove也为yiove。同时，yiove有you, i love.的寓意。
 
-&emsp;&emsp;官网：[https://1ove.club](https://1ove.club)
+## 网站
 
-&emsp;&emsp;1OVE寓意THE FIRST LOVE，即初心。CLUB寓意兴趣提供原动力。愿我不忘初衷，盼你始终不离。
+官网：[www.yiove.com](https://www.yiove.com)
 
-
+论坛：[bbs.1ove.club](https://bbs.1ove.club)
