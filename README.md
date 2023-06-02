@@ -8,6 +8,6 @@ YiOVE释义数字“1”的拼音为“yi”，故1ove也为yiove。同时，yio
 
 ## 网站
 
-官网：[www.yiove.com](https://www.yiove.com)
+官网：[www.yiove.com](https://www.yiove.com/?from=github.com/yiove)
 
 论坛：[bbs.1ove.club](https://bbs.1ove.club)
